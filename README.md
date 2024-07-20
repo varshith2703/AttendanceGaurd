@@ -17,16 +17,15 @@ AttendanceGuard is a Python-based project designed to track student attendance a
    ```sh
     pip install openpyxl
 3. Usage
-  1.Update the project.xlsx file with student data and subjects.
-  2.Run the Python script:
-     ```sh
+   Update the project.xlsx file with student data and subjects.
+   Run the Python script:
+    ```sh
        python Python Project final.py
-  3.Follow the on-screen prompts to enter attendance details and send notifications.
 4. Configuration
-  1. Ensure you have enabled App passwords for your Google account to allow sending emails via SMTP.
-  2. Update the email credentials in the script with your own email and app password.
+   Ensure you have enabled App passwords for your Google account to allow sending emails via SMTP.
+   Update the email credentials in the script with your own email and app password.
 5. Contributing
-  Contributions are welcome! Please fork the repository and submit a pull request.
+   Contributions are welcome! Please fork the repository and submit a pull request.
 6. License
   This project is licensed under the MIT License.
   ```graphql
